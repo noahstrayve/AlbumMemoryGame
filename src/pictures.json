@@ -1,0 +1,72 @@
+[
+
+    {
+        "id": 1,
+        "name": "Bloom",
+        "src": "./assets/img/B.jpg",
+    },
+    {
+        "id": 2,
+        "name": "DearScience",
+        "src": "./assets/img/DS.jpg"
+    },
+    {
+        "id": 3,
+        "name": "ForEmmaForeverAgo",
+        "src": "./assets/img/FEFA.jpg"
+    },
+    {
+        "id": 4,
+        "name": "FleetFoxes",
+        "src": "./assets/img/FF.jpg"
+    },
+    {
+        "id": 5,
+        "name": "GiveUp",
+        "src": "./assets/img/GU.jpg"
+    },
+    
+    {
+        "id": 6,
+        "name": "HalcyonDigest",
+        "src": "./assets/img/HD.png"
+    },
+    
+    {
+        "id": 7,
+        "name": "KidA",
+        "src": "./assets/img/KA.jpg"
+    },
+    
+    {
+        "id": 8,
+        "name": "MerriweatherPostPavillion",
+        "src": "./assets/img/MPP.jpg"
+    },
+    
+    {
+        "id":9,
+        "name": "TurnOnTheBrightLights",
+        "src": "./assets/img/TotBL.jpg"
+    },
+    
+    {
+        "id": 10,
+        "name": "theSuburbs",
+        "src": "./assets/img/tS.jpg"
+    },
+    
+    {
+        "id": 11,
+        "name": "WincingTheNightAway",
+        "src": "./assets/img/WtNA.jpg"
+    },
+    
+    {
+        "id": 12,
+        "name": "YankeeHotelFoxtrot",
+        "src": "./assets/img/YHF.jpg"
+    }
+    
+    
+]

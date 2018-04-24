@@ -1,0 +1,20 @@
+.list-group-item {
+    /* float: left; */
+    width: 200px;
+    height: 200px;
+    border: 10px; 
+    margin: 5px,5px,5px,5px;
+}
+
+.images {
+    /* display: inline-block; */
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 0px; 
+    border-radius: 4px;
+
+    padding: 0px;
+    margin: 10px;
+}
+
