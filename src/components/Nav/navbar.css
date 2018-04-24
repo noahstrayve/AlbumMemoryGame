@@ -1,13 +1,12 @@
-
 .navbar li {
     display: inline-block;
     height: 70px;
     text-align: center;
-    /* background: gray; */
 }
 
 #scoreId {
     position: relative;
+    margin-top: 10px;
     margin-left: 150px;
     font-size: 20px;
     padding: 0px;
@@ -24,8 +23,5 @@
 }
 
 .navbar {
-    /* background: gray; */
-    margin: 0px;
-    /* box-shadow: 5px 5px gray; */
-    
+    margin: 0px;  
 }

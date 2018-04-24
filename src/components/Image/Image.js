@@ -1,6 +1,6 @@
 import React from 'react'
 import './image.css'
-// create class
+
 
  const Image = props => (
 

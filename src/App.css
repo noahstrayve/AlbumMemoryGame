@@ -27,10 +27,6 @@
   to { transform: rotate(360deg); }
 }
 
-body {
-  /* background: grey; */
-}
-
 .list-group {
   margin-top: 100px;
 }
