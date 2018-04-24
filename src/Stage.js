@@ -36,7 +36,7 @@ onScoreChange = () => {
 
   return( this.setState({
                         score: this.state.score +1,
-                        headermessage: "You guessed correctly"
+                        headermessage: "Good Job!"
                         }));
 
 };
@@ -117,11 +117,6 @@ handleImg = (event) => {
             topscore={this.state.topscore}
           />
             <Board>
-              <Row>
-                <Jumbotron>
-                {/* <h3 className="instructions">{this.state.message}</h3> */}
-              </Jumbotron>
-              </Row>
                 <List>
                   {pictures.map((pic,i) => (
                 <Col size="lg-3">

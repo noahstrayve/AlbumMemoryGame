@@ -3,7 +3,7 @@
     {
         "id": 1,
         "name": "Bloom",
-        "src": "./assets/img/B.jpg",
+        "src": "./assets/img/B.jpg"
     },
     {
         "id": 2,
@@ -47,7 +47,7 @@
     {
         "id":9,
         "name": "TurnOnTheBrightLights",
-        "src": "./assets/img/TotBL.jpg"
+        "src": "./assets/img/TotBL.png"
     },
     
     {
